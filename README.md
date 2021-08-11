@@ -1,4 +1,4 @@
-Software Developer / Engineer with 12 years of experience as a full stack web developer using Java as the back-end language.  A polyglot programmer with experience as a DBA and Unix system administrator.  Demonstrated excellence in optimizing manual processes into automated applications with outstanding user experiences.
+Software Developer / Engineer with 12 years of experience as a full stack web developer using Java as the back-end language.  A polyglot programmer with experience as a DBA and Unix system administration.  Excels in optimizing manual processes into automated applications with outstanding user experiences.
 
 # Languages
 
